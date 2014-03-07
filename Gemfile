@@ -10,7 +10,6 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'bootstrap-sass', github: 'twbs/bootstrap-sass'
 gem 'devise', '~> 3.2.3'
-gem 'paperclip', '~> 3.0'  #squiggly line plus minimum version number ensures upgrade doesn't break our app
 
 
 group :development, :test do
