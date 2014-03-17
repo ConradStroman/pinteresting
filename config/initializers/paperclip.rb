@@ -1,1 +1,1 @@
-Paperclip::Attachment.default_options[:s3_host_name] = 'pinterestingtoo.s3.amazonaws.com'
+Paperclip::Attachment.default_options[:s3_host_name] = 'pinterestingtwo.s3.amazonaws.com'
